@@ -26,7 +26,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "compromise": "^14.13.0",
-    "next": "14.2.3",
+    "next": "^14.2.13",
     "next-auth": "5.0.0-beta.18",
     "next-themes": "^0.3.0",
     "nodemailer": "^6.9.13",
